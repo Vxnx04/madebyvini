@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
-<h3 align="center">A passionate game developer from Brasil</h3>
+<h3 align="center">Game developer and Game designer
 
-- 🔭 I’m currently working on **Memories of a Scattered Mind**
+- 🔭 I’m currently working on ##############
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/Vinipassos](https://www.behance.net/Vinipassos)
+- 👨‍💻 https://vxnx.itch.io
 
 - 📫 How to reach me **https://www.linkedin.com/in/vinipassos4/**
 
