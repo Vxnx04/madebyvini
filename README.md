@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Passos</h1>
 <h3 align="center">🕹️ Game Developer and Game Designer</h3>
 
-- 🔭 I’m currently seeking for a job
-- 
-- 👨‍💻 All of my projects are available at [vinipassos.com](vinipassos.com)
+- 👨‍💻 All of my projects are available at vxnx04.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
